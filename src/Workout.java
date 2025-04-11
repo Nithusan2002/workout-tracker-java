@@ -3,8 +3,8 @@ package src;
 import java.time.LocalDate;
 
 public class Workout {
-    private LocalDate date; 
-    private String excercise;
+    private LocalDate date;
+    private String exercise;
     private int reps;
     private int weight;
 
