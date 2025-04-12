@@ -15,7 +15,7 @@ public class DatabaseConnector {
         "loginTimeout=30;";
 
     private static final String USER = "CloudSA11989c0a@nithusan-server";
-    private static final String PASSWORD = "Furuset30122002@"; // <-- Sett inn ditt ekte passord her
+    private static final String PASSWORD = "193756482nN@"; // <-- Sett inn ditt ekte passord her
 
     public static Connection connect() {
         try {
