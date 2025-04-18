@@ -101,9 +101,5 @@ Vekt (kg): 90
 
 ---
 
-[📎 LinkedIn-profil](https://www.linkedin.com/in/nithusan-k/)
-
----
-
 ## 🪪 Lisens
 MIT License – fritt å bruke, endre og dele ✌️
